@@ -1,4 +1,4 @@
-CHART_REPO := http://chartmuseum.thunder.35.189.66.194.nip.io
+CHART_REPO := http://chartmuseum.thunder.thunder.fabric8.io
 NAME := jenkins
 OS := $(shell uname)
 RELEASE_VERSION := $(shell semver-release-version)
